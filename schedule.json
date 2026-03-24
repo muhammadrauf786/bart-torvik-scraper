@@ -1,5 +1,22 @@
 {
-  "scraped_at": "2026-03-23T14:13:28.519666",
-  "total_games": 0,
-  "data": []
+  "scraped_at": "2026-03-24T14:17:29.315715",
+  "total_games": 2,
+  "data": [
+    {
+      "time": "11:00 PM",
+      "matchup": "78 Wichita St. at 64 Tulsa ESPN2",
+      "network": "ESPN2",
+      "trank_line": "Tulsa -5.0, 79-74 (68%)",
+      "ttq": "64",
+      "result": ""
+    },
+    {
+      "time": "01:00 AM",
+      "matchup": "92 Saint Joseph's at 51 New Mexico ESPN2",
+      "network": "ESPN2",
+      "trank_line": "New Mexico -8.8, 81-72 (80%)",
+      "ttq": "59",
+      "result": ""
+    }
+  ]
 }
