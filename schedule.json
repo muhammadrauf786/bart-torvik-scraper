@@ -1,21 +1,21 @@
 {
-  "scraped_at": "2026-03-24T14:17:29.315715",
+  "scraped_at": "2026-03-25T14:16:28.894301",
   "total_games": 2,
   "data": [
     {
-      "time": "11:00 PM",
-      "matchup": "78 Wichita St. at 64 Tulsa ESPN2",
+      "time": "01:00 AM",
+      "matchup": "77 Nevada at 43 Auburn ESPN2",
       "network": "ESPN2",
-      "trank_line": "Tulsa -5.0, 79-74 (68%)",
-      "ttq": "64",
+      "trank_line": "Auburn -8.2, 82-74 (77%)",
+      "ttq": "61",
       "result": ""
     },
     {
-      "time": "01:00 AM",
-      "matchup": "92 Saint Joseph's at 51 New Mexico ESPN2",
+      "time": "11:00 PM",
+      "matchup": "103 Illinois St. at 66 Dayton ESPN2",
       "network": "ESPN2",
-      "trank_line": "New Mexico -8.8, 81-72 (80%)",
-      "ttq": "59",
+      "trank_line": "Dayton -7.0, 74-67 (76%)",
+      "ttq": "55",
       "result": ""
     }
   ]
