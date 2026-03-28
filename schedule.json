@@ -1,37 +1,21 @@
 {
-  "scraped_at": "2026-03-27T14:08:16.528051",
-  "total_games": 4,
+  "scraped_at": "2026-03-28T13:46:10.951822",
+  "total_games": 2,
   "data": [
     {
-      "time": "11:35 PM",
-      "matchup": "13 Alabama vs 2 Michigan NCAA-T TBS",
+      "time": "12:49 AM",
+      "matchup": "2 Arizona vs 8 Purdue NCAA-T TBS",
       "network": "TBS",
-      "trank_line": "Michigan -7.9, 93-85 (74%)",
-      "ttq": "95",
+      "trank_line": "Arizona -3.9, 79-75 (64%)",
+      "ttq": "97",
       "result": ""
     },
     {
-      "time": "01:45 AM",
-      "matchup": "9 Connecticut vs 11 Michigan St. NCAA-T CBS",
-      "network": "CBS",
-      "trank_line": "Connecticut -0.4, 70-69 (52%)",
-      "ttq": "94",
-      "result": ""
-    },
-    {
-      "time": "02:10 AM",
-      "matchup": "7 Iowa St. vs 12 Tennessee NCAA-T TBS",
+      "time": "10:09 PM",
+      "matchup": "6 Illinois vs 23 Iowa NCAA-T TBS",
       "network": "TBS",
-      "trank_line": "Iowa St. -2.9, 70-68 (62%)",
-      "ttq": "91",
-      "result": ""
-    },
-    {
-      "time": "11:10 PM",
-      "matchup": "3 Duke vs 10 St. John's NCAA-T CBS",
-      "network": "CBS",
-      "trank_line": "Duke -5.2, 74-69 (70%)",
-      "ttq": "90",
+      "trank_line": "Illinois -6.7, 75-68 (75%)",
+      "ttq": "79",
       "result": ""
     }
   ]
