@@ -1,21 +1,21 @@
 {
-  "scraped_at": "2026-03-28T13:46:10.951822",
+  "scraped_at": "2026-03-29T13:49:16.789829",
   "total_games": 2,
   "data": [
     {
-      "time": "12:49 AM",
-      "matchup": "2 Arizona vs 8 Purdue NCAA-T TBS",
-      "network": "TBS",
-      "trank_line": "Arizona -3.9, 79-75 (64%)",
-      "ttq": "97",
+      "time": "06:15 PM",
+      "matchup": "2 Michigan vs 11 Tennessee NCAA-T CBS",
+      "network": "CBS",
+      "trank_line": "Michigan -5.6, 77-71 (70%)",
+      "ttq": "91",
       "result": ""
     },
     {
-      "time": "10:09 PM",
-      "matchup": "6 Illinois vs 23 Iowa NCAA-T TBS",
-      "network": "TBS",
-      "trank_line": "Illinois -6.7, 75-68 (75%)",
-      "ttq": "79",
+      "time": "09:05 PM",
+      "matchup": "9 Connecticut vs 3 Duke NCAA-T CBS",
+      "network": "CBS",
+      "trank_line": "Duke -4.2, 70-66 (67%)",
+      "ttq": "89",
       "result": ""
     }
   ]
