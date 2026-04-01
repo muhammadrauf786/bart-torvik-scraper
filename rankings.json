@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-03-31T14:24:48.442337",
+  "scraped_at": "2026-04-01T14:26:48.947464",
   "total_teams": 365,
   "data": [
     {
@@ -940,7 +940,7 @@
     },
     {
       "rank": "37",
-      "team": "Oklahoma",
+      "team": "Oklahoma vs. 81 Colorado",
       "conf": "SEC",
       "games": "34",
       "record": "19-15",
@@ -1200,7 +1200,7 @@
     },
     {
       "rank": "47",
-      "team": "Baylor",
+      "team": "Baylor vs. 57 Minnesota",
       "conf": "B12",
       "games": "32",
       "record": "16-16",
@@ -1460,7 +1460,7 @@
     },
     {
       "rank": "57",
-      "team": "Minnesota",
+      "team": "Minnesota vs. 47 Baylor",
       "conf": "B10",
       "games": "32",
       "record": "15-17",
@@ -2084,7 +2084,7 @@
     },
     {
       "rank": "81",
-      "team": "Colorado",
+      "team": "Colorado vs. 37 Oklahoma",
       "conf": "B12",
       "games": "32",
       "record": "17-15",
