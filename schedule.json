@@ -1,21 +1,37 @@
 {
-  "scraped_at": "2026-04-01T14:26:48.947464",
-  "total_games": 2,
+  "scraped_at": "2026-04-02T14:20:19.979529",
+  "total_games": 4,
   "data": [
     {
-      "time": "02:30 AM",
-      "matchup": "47 Baylor vs 57 Minnesota FS1",
-      "network": "FS1",
-      "trank_line": "Baylor -1.3, 75-74 (55%)",
-      "ttq": "75",
+      "time": "11:00 PM",
+      "matchup": "49 New Mexico vs 59 Tulsa ESPN",
+      "network": "ESPN",
+      "trank_line": "New Mexico -2.1, 84-82 (57%)",
+      "ttq": "77",
       "result": ""
     },
     {
       "time": "12:00 AM",
-      "matchup": "81 Colorado vs 37 Oklahoma FS1",
+      "matchup": "61 Stanford vs 65 West Virginia FS1",
       "network": "FS1",
-      "trank_line": "Oklahoma -5.8, 85-79 (70%)",
-      "ttq": "68",
+      "trank_line": "Stanford -0.2, 67-66 (51%)",
+      "ttq": "73",
+      "result": ""
+    },
+    {
+      "time": "01:30 AM",
+      "matchup": "43 Auburn vs 93 Illinois St. ESPN",
+      "network": "ESPN",
+      "trank_line": "Auburn -6.1, 80-74 (72%)",
+      "ttq": "63",
+      "result": ""
+    },
+    {
+      "time": "02:30 AM",
+      "matchup": "83 Creighton vs 114 Rutgers FS1",
+      "network": "FS1",
+      "trank_line": "Creighton -3.3, 77-73 (63%)",
+      "ttq": "62",
       "result": ""
     }
   ]
