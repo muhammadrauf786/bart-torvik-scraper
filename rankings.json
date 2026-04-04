@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-04-03T13:59:25.581376",
+  "scraped_at": "2026-04-04T13:49:09.837742",
   "total_teams": 365,
   "data": [
     {
@@ -966,7 +966,7 @@
     },
     {
       "rank": "38",
-      "team": "Oklahoma",
+      "team": "Oklahoma vs. 44 Baylor",
       "conf": "SEC",
       "games": "35",
       "record": "20-15",
@@ -1122,7 +1122,7 @@
     },
     {
       "rank": "44",
-      "team": "Baylor",
+      "team": "Baylor vs. 38 Oklahoma",
       "conf": "B12",
       "games": "33",
       "record": "17-16",
@@ -1590,7 +1590,7 @@
     },
     {
       "rank": "62",
-      "team": "West Virginia",
+      "team": "West Virginia vs. 82 Creighton",
       "conf": "B12",
       "games": "33",
       "record": "19-14",
@@ -2110,7 +2110,7 @@
     },
     {
       "rank": "82",
-      "team": "Creighton",
+      "team": "Creighton vs. 62 West Virginia",
       "conf": "BE",
       "games": "33",
       "record": "16-17",
