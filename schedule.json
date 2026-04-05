@@ -1,37 +1,21 @@
 {
-  "scraped_at": "2026-04-04T13:49:09.837742",
-  "total_games": 4,
+  "scraped_at": "2026-04-05T13:50:59.915148",
+  "total_games": 2,
   "data": [
     {
-      "time": "12:49 AM",
-      "matchup": "2 Arizona vs 1 Michigan NCAA-T TBS",
-      "network": "TBS",
-      "trank_line": "Michigan -0.3, 81-80 (51%)",
-      "ttq": "114",
+      "time": "12:00 AM",
+      "matchup": "41 Auburn vs 60 Tulsa ESPN2",
+      "network": "ESPN2",
+      "trank_line": "Auburn -3.4, 85-82 (62%)",
+      "ttq": "75",
       "result": ""
     },
     {
-      "time": "10:09 PM",
-      "matchup": "9 Connecticut vs 6 Illinois NCAA-T TBS",
-      "network": "TBS",
-      "trank_line": "Illinois -2.8, 72-70 (61%)",
-      "ttq": "93",
-      "result": ""
-    },
-    {
-      "time": "05:30 PM",
-      "matchup": "44 Baylor vs 38 Oklahoma FOX",
+      "time": "09:30 PM",
+      "matchup": "37 Oklahoma vs 59 West Virginia FOX",
       "network": "FOX",
-      "trank_line": "Oklahoma -1.0, 83-82 (53%)",
-      "ttq": "83",
-      "result": ""
-    },
-    {
-      "time": "08:00 PM",
-      "matchup": "82 Creighton vs 62 West Virginia FOX",
-      "network": "FOX",
-      "trank_line": "West Virginia -1.5, 68-66 (57%)",
-      "ttq": "68",
+      "trank_line": "Oklahoma -3.2, 71-67 (64%)",
+      "ttq": "70",
       "result": ""
     }
   ]
