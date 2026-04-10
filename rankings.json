@@ -1,10 +1,10 @@
 {
-  "scraped_at": "2026-04-09T14:51:42.280431",
+  "scraped_at": "2026-04-10T14:14:53.840533",
   "total_teams": 365,
   "data": [
     {
       "rank": "1",
-      "team": "Michigan 1 seed, \u2705",
+      "team": "Michigan 1 seed, CHAMPS",
       "conf": "B10",
       "games": "40",
       "record": "37-3",
@@ -30,7 +30,7 @@
     },
     {
       "rank": "2",
-      "team": "Arizona 1 seed, \u274c",
+      "team": "Arizona 1 seed, Final Four",
       "conf": "B12",
       "games": "39",
       "record": "36-3",
@@ -56,7 +56,7 @@
     },
     {
       "rank": "3",
-      "team": "Duke 1 seed, \u274c",
+      "team": "Duke 1 seed, Elite Eight",
       "conf": "ACC",
       "games": "38",
       "record": "35-3",
@@ -82,7 +82,7 @@
     },
     {
       "rank": "4",
-      "team": "Florida 1 seed, \u274c",
+      "team": "Florida 1 seed, R32",
       "conf": "SEC",
       "games": "35",
       "record": "27-8",
@@ -108,7 +108,7 @@
     },
     {
       "rank": "5",
-      "team": "Houston 2 seed, \u274c",
+      "team": "Houston 2 seed, Sweet Sixteen",
       "conf": "B12",
       "games": "37",
       "record": "30-7",
@@ -134,7 +134,7 @@
     },
     {
       "rank": "6",
-      "team": "Illinois 3 seed, \u274c",
+      "team": "Illinois 3 seed, Final Four",
       "conf": "B10",
       "games": "37",
       "record": "28-9",
@@ -160,7 +160,7 @@
     },
     {
       "rank": "7",
-      "team": "Iowa St. 2 seed, \u274c",
+      "team": "Iowa St. 2 seed, Sweet Sixteen",
       "conf": "B12",
       "games": "37",
       "record": "29-8",
@@ -186,7 +186,7 @@
     },
     {
       "rank": "8",
-      "team": "Purdue 2 seed, \u274c",
+      "team": "Purdue 2 seed, Elite Eight",
       "conf": "B10",
       "games": "39",
       "record": "30-9",
@@ -212,7 +212,7 @@
     },
     {
       "rank": "9",
-      "team": "Connecticut 2 seed, \u274c",
+      "team": "Connecticut 2 seed, Finals",
       "conf": "BE",
       "games": "40",
       "record": "34-6",
@@ -238,7 +238,7 @@
     },
     {
       "rank": "10",
-      "team": "St. John's 5 seed, \u274c",
+      "team": "St. John's 5 seed, Sweet Sixteen",
       "conf": "BE",
       "games": "37",
       "record": "30-7",
@@ -264,7 +264,7 @@
     },
     {
       "rank": "11",
-      "team": "Michigan St. 3 seed, \u274c",
+      "team": "Michigan St. 3 seed, Sweet Sixteen",
       "conf": "B10",
       "games": "35",
       "record": "27-8",
@@ -290,7 +290,7 @@
     },
     {
       "rank": "12",
-      "team": "Tennessee 6 seed, \u274c",
+      "team": "Tennessee 6 seed, Elite Eight",
       "conf": "SEC",
       "games": "37",
       "record": "25-12",
@@ -316,7 +316,7 @@
     },
     {
       "rank": "13",
-      "team": "Alabama 4 seed, \u274c",
+      "team": "Alabama 4 seed, Sweet Sixteen",
       "conf": "SEC",
       "games": "35",
       "record": "25-10",
@@ -342,7 +342,7 @@
     },
     {
       "rank": "14",
-      "team": "Vanderbilt 5 seed, \u274c",
+      "team": "Vanderbilt 5 seed, R32",
       "conf": "SEC",
       "games": "36",
       "record": "27-9",
@@ -368,7 +368,7 @@
     },
     {
       "rank": "15",
-      "team": "Gonzaga 3 seed, \u274c",
+      "team": "Gonzaga 3 seed, R32",
       "conf": "WCC",
       "games": "35",
       "record": "31-4",
@@ -394,7 +394,7 @@
     },
     {
       "rank": "16",
-      "team": "Texas Tech 5 seed, \u274c",
+      "team": "Texas Tech 5 seed, R32",
       "conf": "B12",
       "games": "34",
       "record": "23-11",
@@ -420,7 +420,7 @@
     },
     {
       "rank": "17",
-      "team": "Nebraska 4 seed, \u274c",
+      "team": "Nebraska 4 seed, Sweet Sixteen",
       "conf": "B10",
       "games": "35",
       "record": "28-7",
@@ -446,7 +446,7 @@
     },
     {
       "rank": "18",
-      "team": "Virginia 3 seed, \u274c",
+      "team": "Virginia 3 seed, R32",
       "conf": "ACC",
       "games": "36",
       "record": "30-6",
@@ -472,7 +472,7 @@
     },
     {
       "rank": "19",
-      "team": "Louisville 6 seed, \u274c",
+      "team": "Louisville 6 seed, R32",
       "conf": "ACC",
       "games": "35",
       "record": "24-11",
@@ -498,7 +498,7 @@
     },
     {
       "rank": "20",
-      "team": "Arkansas 4 seed, \u274c",
+      "team": "Arkansas 4 seed, Sweet Sixteen",
       "conf": "SEC",
       "games": "37",
       "record": "28-9",
@@ -524,7 +524,7 @@
     },
     {
       "rank": "21",
-      "team": "Kansas 4 seed, \u274c",
+      "team": "Kansas 4 seed, R32",
       "conf": "B12",
       "games": "35",
       "record": "24-11",
@@ -550,7 +550,7 @@
     },
     {
       "rank": "22",
-      "team": "Wisconsin 5 seed, \u274c",
+      "team": "Wisconsin 5 seed, R64",
       "conf": "B10",
       "games": "35",
       "record": "24-11",
@@ -576,7 +576,7 @@
     },
     {
       "rank": "23",
-      "team": "Iowa 9 seed, \u274c",
+      "team": "Iowa 9 seed, Elite Eight",
       "conf": "B10",
       "games": "37",
       "record": "24-13",
@@ -602,7 +602,7 @@
     },
     {
       "rank": "24",
-      "team": "Ohio St. 8 seed, \u274c",
+      "team": "Ohio St. 8 seed, R64",
       "conf": "B10",
       "games": "34",
       "record": "21-13",
@@ -628,7 +628,7 @@
     },
     {
       "rank": "25",
-      "team": "UCLA 7 seed, \u274c",
+      "team": "UCLA 7 seed, R32",
       "conf": "B10",
       "games": "36",
       "record": "24-12",
@@ -654,7 +654,7 @@
     },
     {
       "rank": "26",
-      "team": "Utah St. 9 seed, \u274c",
+      "team": "Utah St. 9 seed, R32",
       "conf": "MWC",
       "games": "36",
       "record": "29-7",
@@ -680,7 +680,7 @@
     },
     {
       "rank": "27",
-      "team": "North Carolina 6 seed, \u274c",
+      "team": "North Carolina 6 seed, R64",
       "conf": "ACC",
       "games": "33",
       "record": "24-9",
@@ -706,7 +706,7 @@
     },
     {
       "rank": "28",
-      "team": "Saint Mary's 7 seed, \u274c",
+      "team": "Saint Mary's 7 seed, R64",
       "conf": "WCC",
       "games": "33",
       "record": "27-6",
@@ -732,7 +732,7 @@
     },
     {
       "rank": "29",
-      "team": "Kentucky 7 seed, \u274c",
+      "team": "Kentucky 7 seed, R32",
       "conf": "SEC",
       "games": "36",
       "record": "22-14",
@@ -784,7 +784,7 @@
     },
     {
       "rank": "31",
-      "team": "Santa Clara 10 seed, \u274c",
+      "team": "Santa Clara 10 seed, R64",
       "conf": "WCC",
       "games": "35",
       "record": "26-9",
@@ -836,7 +836,7 @@
     },
     {
       "rank": "33",
-      "team": "Miami FL 7 seed, \u274c",
+      "team": "Miami FL 7 seed, R32",
       "conf": "ACC",
       "games": "35",
       "record": "26-9",
@@ -862,7 +862,7 @@
     },
     {
       "rank": "34",
-      "team": "Villanova 8 seed, \u274c",
+      "team": "Villanova 8 seed, R64",
       "conf": "BE",
       "games": "33",
       "record": "24-9",
@@ -888,7 +888,7 @@
     },
     {
       "rank": "35",
-      "team": "BYU 6 seed, \u274c",
+      "team": "BYU 6 seed, R64",
       "conf": "B12",
       "games": "35",
       "record": "23-12",
@@ -914,7 +914,7 @@
     },
     {
       "rank": "36",
-      "team": "Clemson 8 seed, \u274c",
+      "team": "Clemson 8 seed, R64",
       "conf": "ACC",
       "games": "35",
       "record": "24-11",
@@ -966,7 +966,7 @@
     },
     {
       "rank": "38",
-      "team": "Texas 11 seed, \u274c",
+      "team": "Texas 11 seed, Sweet Sixteen",
       "conf": "SEC",
       "games": "36",
       "record": "21-15",
@@ -992,7 +992,7 @@
     },
     {
       "rank": "39",
-      "team": "Texas A&M 10 seed, \u274c",
+      "team": "Texas A&M 10 seed, R32",
       "conf": "SEC",
       "games": "34",
       "record": "22-12",
@@ -1044,7 +1044,7 @@
     },
     {
       "rank": "41",
-      "team": "Saint Louis 9 seed, \u274c",
+      "team": "Saint Louis 9 seed, R32",
       "conf": "A10",
       "games": "35",
       "record": "29-6",
@@ -1070,7 +1070,7 @@
     },
     {
       "rank": "42",
-      "team": "Georgia 8 seed, \u274c",
+      "team": "Georgia 8 seed, R64",
       "conf": "SEC",
       "games": "33",
       "record": "22-11",
@@ -1096,7 +1096,7 @@
     },
     {
       "rank": "43",
-      "team": "N.C. State 11 seed, \u274c",
+      "team": "N.C. State 11 seed, R68",
       "conf": "ACC",
       "games": "34",
       "record": "20-14",
@@ -1174,7 +1174,7 @@
     },
     {
       "rank": "46",
-      "team": "Missouri 10 seed, \u274c",
+      "team": "Missouri 10 seed, R64",
       "conf": "SEC",
       "games": "33",
       "record": "20-13",
@@ -1200,7 +1200,7 @@
     },
     {
       "rank": "47",
-      "team": "VCU 11 seed, \u274c",
+      "team": "VCU 11 seed, R32",
       "conf": "A10",
       "games": "36",
       "record": "28-8",
@@ -1226,7 +1226,7 @@
     },
     {
       "rank": "48",
-      "team": "TCU 9 seed, \u274c",
+      "team": "TCU 9 seed, R32",
       "conf": "B12",
       "games": "35",
       "record": "23-12",
@@ -1252,7 +1252,7 @@
     },
     {
       "rank": "49",
-      "team": "SMU 11 seed, \u274c",
+      "team": "SMU 11 seed, R68",
       "conf": "ACC",
       "games": "34",
       "record": "20-14",
@@ -1278,7 +1278,7 @@
     },
     {
       "rank": "50",
-      "team": "South Florida 11 seed, \u274c",
+      "team": "South Florida 11 seed, R64",
       "conf": "Amer",
       "games": "34",
       "record": "25-9",
@@ -1512,7 +1512,7 @@
     },
     {
       "rank": "59",
-      "team": "UCF 10 seed, \u274c",
+      "team": "UCF 10 seed, R64",
       "conf": "B12",
       "games": "33",
       "record": "21-12",
@@ -1720,7 +1720,7 @@
     },
     {
       "rank": "67",
-      "team": "McNeese St. 12 seed, \u274c",
+      "team": "McNeese St. 12 seed, R64",
       "conf": "Slnd",
       "games": "34",
       "record": "28-6",
@@ -1850,7 +1850,7 @@
     },
     {
       "rank": "72",
-      "team": "Akron 12 seed, \u274c",
+      "team": "Akron 12 seed, R64",
       "conf": "MAC",
       "games": "35",
       "record": "29-6",
@@ -1980,7 +1980,7 @@
     },
     {
       "rank": "77",
-      "team": "Northern Iowa 12 seed, \u274c",
+      "team": "Northern Iowa 12 seed, R64",
       "conf": "MVC",
       "games": "36",
       "record": "23-13",
@@ -2214,7 +2214,7 @@
     },
     {
       "rank": "86",
-      "team": "High Point 12 seed, \u274c",
+      "team": "High Point 12 seed, R32",
       "conf": "BSth",
       "games": "36",
       "record": "31-5",
@@ -2240,7 +2240,7 @@
     },
     {
       "rank": "87",
-      "team": "Miami OH 11 seed, \u274c",
+      "team": "Miami OH 11 seed, R64",
       "conf": "MAC",
       "games": "34",
       "record": "32-2",
@@ -2292,7 +2292,7 @@
     },
     {
       "rank": "89",
-      "team": "Hofstra 13 seed, \u274c",
+      "team": "Hofstra 13 seed, R64",
       "conf": "CAA",
       "games": "35",
       "record": "24-11",
@@ -2708,7 +2708,7 @@
     },
     {
       "rank": "105",
-      "team": "Cal Baptist 13 seed, \u274c",
+      "team": "Cal Baptist 13 seed, R64",
       "conf": "WAC",
       "games": "34",
       "record": "25-9",
@@ -3072,7 +3072,7 @@
     },
     {
       "rank": "119",
-      "team": "North Dakota St. 14 seed, \u274c",
+      "team": "North Dakota St. 14 seed, R64",
       "conf": "Sum",
       "games": "35",
       "record": "27-8",
@@ -3098,7 +3098,7 @@
     },
     {
       "rank": "120",
-      "team": "Hawaii 13 seed, \u274c",
+      "team": "Hawaii 13 seed, R64",
       "conf": "BW",
       "games": "33",
       "record": "24-9",
@@ -3150,7 +3150,7 @@
     },
     {
       "rank": "122",
-      "team": "Wright St. 14 seed, \u274c",
+      "team": "Wright St. 14 seed, R64",
       "conf": "Horz",
       "games": "35",
       "record": "23-12",
@@ -3540,7 +3540,7 @@
     },
     {
       "rank": "137",
-      "team": "Kennesaw St. 14 seed, \u274c",
+      "team": "Kennesaw St. 14 seed, R64",
       "conf": "CUSA",
       "games": "35",
       "record": "21-14",
@@ -3722,7 +3722,7 @@
     },
     {
       "rank": "144",
-      "team": "Idaho 15 seed, \u274c",
+      "team": "Idaho 15 seed, R64",
       "conf": "BSky",
       "games": "36",
       "record": "21-15",
@@ -3774,7 +3774,7 @@
     },
     {
       "rank": "146",
-      "team": "Penn 14 seed, \u274c",
+      "team": "Penn 14 seed, R64",
       "conf": "Ivy",
       "games": "30",
       "record": "18-12",
@@ -3904,7 +3904,7 @@
     },
     {
       "rank": "151",
-      "team": "Troy 13 seed, \u274c",
+      "team": "Troy 13 seed, R64",
       "conf": "SB",
       "games": "34",
       "record": "22-12",
@@ -4190,7 +4190,7 @@
     },
     {
       "rank": "162",
-      "team": "Siena 16 seed, \u274c",
+      "team": "Siena 16 seed, R64",
       "conf": "MAAC",
       "games": "35",
       "record": "23-12",
@@ -4632,7 +4632,7 @@
     },
     {
       "rank": "179",
-      "team": "Howard 16 seed, \u274c",
+      "team": "Howard 16 seed, R64",
       "conf": "MEAC",
       "games": "35",
       "record": "24-11",
@@ -4684,7 +4684,7 @@
     },
     {
       "rank": "181",
-      "team": "Furman 15 seed, \u274c",
+      "team": "Furman 15 seed, R64",
       "conf": "SC",
       "games": "35",
       "record": "22-13",
@@ -4866,7 +4866,7 @@
     },
     {
       "rank": "188",
-      "team": "UMBC 16 seed, \u274c",
+      "team": "UMBC 16 seed, R68",
       "conf": "AE",
       "games": "33",
       "record": "24-9",
@@ -5100,7 +5100,7 @@
     },
     {
       "rank": "197",
-      "team": "Queens 15 seed, \u274c",
+      "team": "Queens 15 seed, R64",
       "conf": "ASun",
       "games": "35",
       "record": "21-14",
@@ -5594,7 +5594,7 @@
     },
     {
       "rank": "216",
-      "team": "Tennessee St. 15 seed, \u274c",
+      "team": "Tennessee St. 15 seed, R64",
       "conf": "OVC",
       "games": "33",
       "record": "23-10",
@@ -6140,7 +6140,7 @@
     },
     {
       "rank": "237",
-      "team": "LIU 16 seed, \u274c",
+      "team": "LIU 16 seed, R64",
       "conf": "NEC",
       "games": "35",
       "record": "24-11",
@@ -7258,7 +7258,7 @@
     },
     {
       "rank": "280",
-      "team": "Prairie View A&M 16 seed, \u274c",
+      "team": "Prairie View A&M 16 seed, R64",
       "conf": "SWAC",
       "games": "37",
       "record": "19-18",
@@ -7466,7 +7466,7 @@
     },
     {
       "rank": "288",
-      "team": "Lehigh 16 seed, \u274c",
+      "team": "Lehigh 16 seed, R68",
       "conf": "Pat",
       "games": "35",
       "record": "18-17",

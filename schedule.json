@@ -1,5 +1,14 @@
 {
-  "scraped_at": "2026-04-09T14:51:42.280431",
-  "total_games": 0,
-  "data": []
+  "scraped_at": "2026-04-10T14:14:53.840533",
+  "total_games": 1,
+  "data": [
+    {
+      "time": "12:50 AM",
+      "matchup": "9 Connecticut vs 1 Michigan NCAA-T TBS",
+      "network": "TBS",
+      "trank_line": "Michigan -5.8, 77-71 (71%)",
+      "ttq": "92",
+      "result": "Michigan, 69-63"
+    }
+  ]
 }
